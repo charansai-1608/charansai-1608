@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Charan Sai Gottipati and I'm a recent graduate from Bapatla Engineering College in the stream of Computer Science.</p>
+<p align="left">My name is Charan Sai Gottipati and I'm a Salesforce certified professional working with apex, LWC, JavaScript, Integrations and platform customisations.</p>
 
 ###
 
