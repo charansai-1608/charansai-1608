@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Solving bugs since 2022<br>📚 I'm currently learning Java SE<br>🎯 Goals: Trying to do better</p>
+<p align="left">✨ Solving bugs since 2024<br>📚 I'm currently working in Salesforce Domain<br>🎯 Goals: Trying to do better</p>
 
 ###
 
